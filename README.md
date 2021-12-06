@@ -2,7 +2,7 @@
 This discord bot web-scrapes responses from cleverbot.com, which is a website offering a chatbot powered by artificial intelligence, to respond to users in a different way than  typical scripted bot responses. Other features include reacting to a message with an emoji-fied version of that message if there are no repeat letters.
 
 If you are interested in adding this bot to your discord server or group chat, use the authentication link below:
-https://discord.com/oauth2/authorize?client_id=895063573208915978&scope=bot
+https://discord.com/api/oauth2/authorize?client_id=917249375808389142&permissions=274877979648&scope=bot
 
 Notes:
 1. The bot is hosted for free on replit.com, and pinged through the free service uptimerobot.com which allows it to continue running through the nodejs module Express.
